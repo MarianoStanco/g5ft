@@ -2,5 +2,7 @@
   "name": "g5ft",
   "app_id": "39181d14",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
